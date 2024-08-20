@@ -7,3 +7,7 @@ Hagman game in JS & HTML, CSS
 
 
 ![Знімок екрана (1129)](https://github.com/user-attachments/assets/53b0fb84-d96c-46c6-ba5f-73753f50d3cf)
+
+
+![Знімок екрана (1130)](https://github.com/user-attachments/assets/8b1c4cd2-2820-4316-9cff-dee1e04c50e0)
+
